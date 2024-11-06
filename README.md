@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InnovatioAdmin
+- 👋 Hi, I’m Lee
 - 👀 I’m interested in developing, economical & personal growth, property, and money!
 - 🌱 I’m currently learning Computer Science in Application Development
 - 💞️ I’m looking to collaborate on apps & websites...or anything really
